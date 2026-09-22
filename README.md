@@ -6,4 +6,4 @@ The file `PTB_chern_BHZ_random_joint_LDOS_disorder_chern.jl` contains the analog
 
 The files `angmom.jl`, `generate_matrices2D.jl`, `generate_matrices1D.jl` as well as `Hermitian_Check.jl` contain library functions to generate angular momentum matrices as well as lattice tight binding matrices. They are called by `PTB_chern_BHZ_random_sites_joint_LDOS.jl`.
 
-All these codes require the [Julia](https://julialang.org/) programming language.
+All these codes are written in the [Julia](https://julialang.org/) programming language.
