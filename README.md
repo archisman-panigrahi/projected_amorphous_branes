@@ -4,6 +4,8 @@ The file `PTB_chern_BHZ_random_sites_joint_LDOS.jl` contains the codes to genera
 
 The file `PTB_chern_BHZ_random_joint_LDOS_disorder_chern.jl` contains the analogous codes for on-sight disorder potential. The script can be systematically run with `run_joint_LDOS_disorder.sh`.
 
+The Jupyter notebook `bott_index_scaling_analysis.ipynb` the scaling analysis of Bott index on the in `bott_index_data/`. In this directory, we present the Bott index data for different configurations, for $m_0 = -1.75$. 
+
 The files `angmom.jl`, `generate_matrices2D.jl`, `generate_matrices1D.jl` as well as `Hermitian_Check.jl` contain library functions to generate angular momentum matrices as well as lattice tight binding matrices. They are called by `PTB_chern_BHZ_random_sites_joint_LDOS.jl`.
 
 All these codes are written in the [Julia](https://julialang.org/) programming language.
